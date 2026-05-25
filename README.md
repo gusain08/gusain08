@@ -68,7 +68,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gusain08&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -79,8 +79,5 @@
   <i>"First, solve the problem. Then, write the code."</i> 💻
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+
