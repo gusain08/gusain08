@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surendra Singh</h1>
 
-<h3 align="center">Frontend Engineer • React Enthusiast • UI Lover</h3>
+<h3 align="center">Frontend Engineer • React Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+Developer;JavaScript+Enthusiast;Building+Beautiful+Web+Experiences" alt="Typing SVG" />
