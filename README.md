@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Surendra  Singh </h1>
 
-<!--
-**gusain08/gusain08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Frontend Engineer |  React Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+ 💼 I’m currently working as a Frontend Engineer at Snapmint
+- 🔭  on React projects
+
+- 💬 Ask me about JavaScript & React
+
+---
+
+## 🛠 Skills
+
+🛠️ Languages and Tools
+HTML  CSS  JavaScript  React  Redux   Java  Spring  Git
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
