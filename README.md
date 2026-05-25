@@ -41,7 +41,7 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,java,spring,git,github,vscode" />
 </p>
 
@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
   
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
@@ -60,7 +60,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=gusain08&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
